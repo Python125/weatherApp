@@ -1,4 +1,4 @@
-let apiKey = ${Your-API-KEY};
+let apiKey = ${OPENWEATHER-API-KEY};
 let searchBtn = $(".searchBtn");
 let searchInput = $(".searchInput");
 
